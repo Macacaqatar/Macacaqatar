@@ -8,7 +8,8 @@
 <a href="https://discord.gg/sangsangimacaca"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/MacacaQATAR" ><img src="https://img.shields.io/twitter/follow/MacacaQATAR.svg?style=social" /> </a>
 <br>
-<a href="https://youtube.com/@sangsangimacaca7921"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/Sangsangi%20Macaca%20"></a>
+<a href="https://youtube.com/@sangsangimacaca7921"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/comments/Sangsangi%20Macaca%20?logo=YouTube&logoColor=Red&label=YouTube%20&labelColor=Red&color=Red
+"></a>
 
 <i> Welcome Web3 Builders Macaca Welcome You READMEs</i>
 
