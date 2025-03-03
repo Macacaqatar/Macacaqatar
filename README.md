@@ -1,4 +1,4 @@
-<h1 align="center"> Macaca GitHub Profile README
+<h1 align="center"> Macaca GitHub Profile
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -12,6 +12,12 @@
 "></a>
 
 <i> Welcome Web3 Builders Macaca Welcome You READMEs</i>
+### Languages & Frameworks
+
+[![Language](https://skillicons.dev/icons?i=java,kotlin,solidity,cs,typescript,javascript&theme=light)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0pGpmve1SdfSjHLxlv7oJONd5KAVs_tsvQ&s" width="50" height="50">
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux&theme=light)](https://skillicons.dev)
 
 <a href="https://github.com/macacaqatar/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/macacaqatar/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/macacaqatar/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/macacaqatar/awesome-github-profile-readme" alt="Forks Badge"/></a>
