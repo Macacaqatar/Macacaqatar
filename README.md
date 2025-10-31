@@ -6,12 +6,12 @@
 <!-- <img src="http://hits.dwyl.com/MacacaQATAR/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/sangsangimacaca"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/MacacaQATAR" ><img src="https://img.shields.io/twitter/follow/MacacaQATAR.svg?style=social" /> </a>
+<a href="https://twitter.com/Macaca_QATAR" ><img src="https://img.shields.io/twitter/follow/MacacaQATAR.svg?style=social" /> </a>
 <br>
 <a href="https://youtube.com/@sangsangimacaca7921"><img alt="Subscribe" src="https://img.shields.io/youtube/comments/Sangsangi%20Macaca%20?logo=YouTube&logoColor=Red&label=YouTube%20&labelColor=Red&color=Red
 "></a>
 
-<i> Welcome Web3 Builders Macaca Welcome You READMEs</i>
+<i> Welcome To My GitHub Profile Macaca Welcome You </i>
 ### Languages & Frameworks
 
 [![Language](https://skillicons.dev/icons?i=java,kotlin,solidity,cs,typescript,javascript&theme=light)](https://skillicons.dev)
